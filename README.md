@@ -1,14 +1,11 @@
-# Food_App_PowerBI_Project
+ Food_App_PowerBI_Project
 
-This is a project based on an online Food App dataset.
+This is a project based on an online Food App dataset. This report provides valuable insights into customer engagement and buying habits, which can help businesses make data-driven decisions to drive growth and revenue.
 
-The insight generated are based on;
-- Customers' engagements and buying habits
-- What percentage of customers prefer web purchases and store purchases
-- What gender constitutes the majority of customers (male or female)
-- Most frequently bought goods by age group, gender, marital status etc
-- Whether a household with children or no children affects monthly income and expenditures.
+The report includes a range of visualizations that highlight key trends and patterns in the data. For example, you can see what percentage of customers prefer web purchases versus store purchases, which can inform businesses on how to optimize their online and offline sales channels.
 
-Insights from this report would help inform businesses in keeping up customer engagement on select goods via online websites or store purchases which is key for business growth, especially if the business would like more engagements via the website or in store purchases. 
+Additionally, the report breaks down customer demographics by gender, age group, marital status, and more, to help businesses understand their target audience better. By analyzing the most frequently bought goods by these demographics, businesses can channel select products to specific groups of people for potential business growth, customer retention, and revenue generation.
 
-This report would also provide actionable business insights on products and demographics of people to channel select products to for potential business growth, customer rentention and revenue generation.
+Another interesting finding from the report is how having children in a household affects monthly income and expenditures. This information can help businesses tailor their products and services to meet the unique needs of families with children.
+
+I am confident that this report will provide valuable information for any business looking to optimize their operations and drive growth.
